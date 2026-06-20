@@ -343,7 +343,7 @@
 		(at 138.3 124.5 90)
 		(descr "Through hole angled socket strip, 1x02, 2.54mm pitch, 8.51mm socket length, single row (from Kicad 4.0.7), script generated")
 		(tags "Through hole angled socket strip THT 1x02 2.54mm single row")
-		(property "Reference" "J3"
+		(property "Reference" "J2"
 			(at -4.38 -2.77 90)
 			(layer "F.SilkS")
 			(hide yes)
@@ -1504,7 +1504,7 @@
 				)
 			)
 		)
-		(property "Value" "WEMOS_D1_mini"
+		(property "Value" "WEMOS D1 mini"
 			(at 11.7 0 0)
 			(layer "F.Fab")
 			(hide yes)
@@ -2142,7 +2142,7 @@
 		(at 131.2 104.9 -90)
 		(descr "JST ZH series connector, B4B-ZR (http://www.jst-mfg.com/product/pdf/eng/eZH.pdf)")
 		(tags "connector JST ZH vertical")
-		(property "Reference" "JP11"
+		(property "Reference" "J1"
 			(at 2.25 2.5 90)
 			(layer "B.SilkS")
 			(hide yes)
