@@ -4360,7 +4360,7 @@
 			(justify bottom mirror)
 		)
 	)
-	(gr_text "MiP D1 mini Pack"
+	(gr_text "MiP D1 mini pack"
 		(at 148.4 115.6 0)
 		(layer "B.SilkS")
 		(uuid "e2da58a2-01c2-452e-955b-80f9bc1a018f")
