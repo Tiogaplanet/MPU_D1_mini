@@ -4279,7 +4279,7 @@
 			)
 		)
 	)
-	(gr_text "MiP D1 mini Pack"
+	(gr_text "MiP D1 mini pack"
 		(at 153.25 116.5 0)
 		(layer "F.SilkS")
 		(uuid "7e78773c-f81b-4f0e-9679-003ad4c962c1")
